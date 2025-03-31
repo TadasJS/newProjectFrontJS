@@ -1,0 +1,8 @@
+{
+    "presets": [
+        "@bable/preset-env"
+    ]
+}
+
+//apacioj suinstaliuoti visi pluginai kuriuos naudoja -D. npm i -D 
+//  @babel/eslint-parser @babel/plugin-transform-modules-commonjs @babel/preset-env babel-jest dead-server eslint eslint-config-node eslint-plugin-import eslint-plugin-node eslint-plugin-prettier jest prettier
