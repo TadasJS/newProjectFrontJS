@@ -1,5 +1,8 @@
 /* cia yra html resetas. Cia galima susimesti rootus*/
 :root {
+    --main--color: #f34236;
+    --dark--color: #111;
+    --light--grey--color: #f3f3f3;
 
 }
 
@@ -12,4 +15,18 @@ body * {
 
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bg-main {
+    background-color: var(--main--color);
+    color: #fff;
+}
+
+.bg-dark {
+    background-color: var(--dark--color);
+    color: #fff;
+}
+
+.bg-light-grey {
+    background-color: var(--light--grey--color);
 }
