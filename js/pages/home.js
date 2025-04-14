@@ -42,7 +42,9 @@ const homeServicesData = [
         desc: 'The9 is a graphically polished, interactive, easily customizable, highly modern, fast loading.',
     },  
 ];
+
 services('services_block', homeServicesData);
+
 /* SERVICES:end */
 
 /* RESUME:start */
